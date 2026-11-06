@@ -1,9 +1,11 @@
 from pathlib import Path
 from zipfile import ZipFile, ZIP_DEFLATED
-import json
+import json,argparse
 root=Path(__file__).resolve().parent.parent
 site=root/'al-sheikh'
-source=root/'al-sheikh-website.zip'
+parser=argparse.ArgumentParser();parser.add_argument('--source-name',default='al-sheikh-website.zip');parser.add_argument('--source-only',action='store_true');args=parser.parse_args()
+source=root/args.source_name
+if source.resolve().parent!=root.resolve():raise ValueError('Source archive must stay in the workspace root')
 with ZipFile(source,'w',ZIP_DEFLATED,compresslevel=6) as z:
  for p in sorted(site.rglob('*')):
   if not p.is_file():continue
@@ -12,18 +14,21 @@ with ZipFile(source,'w',ZIP_DEFLATED,compresslevel=6) as z:
   if rel.parts[:2] in [('asset-library','originals'),('.impeccable','review'),('.impeccable','questions'),('.impeccable','mocks')]:continue
   if p.suffix in ('.zip','.gz'):continue
   z.write(p,Path('al-sheikh')/rel)
-original=root/'al-sheikh-original-assets.zip'
-with ZipFile(original,'w',ZIP_DEFLATED,compresslevel=6) as z:
- for p in sorted((site/'asset-library/originals').iterdir()):
-  if p.is_file():z.write(p,Path('original-assets')/p.name)
- z.write(site/'asset-library/manifest.json','manifest.json')
- pages=json.loads((root/'research/pages.json').read_text(encoding='utf-8'))
- for page in pages:
-  for k in ('archive','text'):
-   p=root/'research'/page[k]
-   if p.exists():z.write(p,Path('original-pages')/p.name)
- z.write(root/'research/pages.json','original-pages/pages.json')
-for p in [source,original]:
+archives=[source]
+if not args.source_only:
+ original=root/'al-sheikh-original-assets.zip'
+ with ZipFile(original,'w',ZIP_DEFLATED,compresslevel=6) as z:
+  for p in sorted((site/'asset-library/originals').iterdir()):
+   if p.is_file():z.write(p,Path('original-assets')/p.name)
+  z.write(site/'asset-library/manifest.json','manifest.json')
+  pages=json.loads((root/'research/pages.json').read_text(encoding='utf-8'))
+  for page in pages:
+   for k in ('archive','text'):
+    p=root/'research'/page[k]
+    if p.exists():z.write(p,Path('original-pages')/p.name)
+  z.write(root/'research/pages.json','original-pages/pages.json')
+ archives.append(original)
+for p in archives:
  with ZipFile(p) as z:
   bad=z.testzip()
   if bad:raise RuntimeError('Invalid archive member '+bad)

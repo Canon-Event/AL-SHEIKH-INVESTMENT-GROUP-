@@ -1,0 +1,22 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.15.1
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:E:\OneDrive\Desktop\dubai\tools\.npmrc
+5 silly config load:file:C:\Users\Saksham\.npmrc
+6 silly config load:file:C:\Users\Saksham\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm exec prettier --write ../al-sheikh/src
+8 verbose argv "exec" "--yes" "--cache" "E:\\OneDrive\\Desktop\\dubai\\tools\\npm-cache" "--package" "prettier@3.6.2" "--" "prettier" "--write" "../al-sheikh/src"
+9 verbose logfile logs-max:10 dir:E:\OneDrive\Desktop\dubai\tools\npm-cache\_logs\2026-11-06T11_25_34_412Z-
+10 verbose logfile E:\OneDrive\Desktop\dubai\tools\npm-cache\_logs\2026-11-06T11_25_34_412Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+14 http fetch GET 200 https://registry.npmjs.org/prettier 719ms (cache revalidated)
+15 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+16 verbose cwd E:\OneDrive\Desktop\dubai\tools
+17 verbose os Windows_NT 10.0.26200
+18 verbose node v22.15.1
+19 verbose npm  v10.9.2
+20 verbose exit 0
+21 info ok
