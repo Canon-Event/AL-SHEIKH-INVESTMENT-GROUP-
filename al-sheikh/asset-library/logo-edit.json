@@ -1,0 +1,7 @@
+{
+  "source": "https://static.wixstatic.com/media/cf5f9e_8f33772d307346aca800cbb63c94f271~mv2.png",
+  "original_file": "asset-library/originals/al-sheikh-investment-group-logo-a186ccd3.png",
+  "edited_master": "asset-library/edited/brand-seal-transparent.png",
+  "tool": "built-in image_gen",
+  "prompt": "Use case: background-extraction. Edit target: the provided original KAS / Al Sheikh Group gold circular seal. Remove ONLY the rectangular background, thin rectangular white border, and stray white pixels OUTSIDE the outer circular black-and-gold rim. Output a true transparent PNG cutout with alpha outside the circular seal. Keep the original seal, gold/bronze color, globe, stars, black inner rings and ALL lettering exactly unchanged: top arc 'SINCE 1997', center 'KAS', bottom arc 'AL SHEIKH GROUP'. Do not redesign, redraw, replace typography, change proportions, add shadows, alter the logo, or remove any black areas that belong inside the seal. Preserve the complete outer circular edge with clean antialiased transparency, and leave a small transparent margin around it. This is precise background removal of an existing company identity asset, not a new logo."
+}

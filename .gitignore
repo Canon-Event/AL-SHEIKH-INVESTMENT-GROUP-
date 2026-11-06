@@ -1,0 +1,5 @@
+# Local design tooling is not a deployment dependency.
+/tools/impeccable/
+
+# Temporary local Git transfer bundles.
+*.bundle

@@ -1,0 +1,79 @@
+{
+  "routes": 13,
+  "internalLinks": 13,
+  "checks": [
+    {
+      "route": "/",
+      "status": "loaded"
+    },
+    {
+      "route": "/about/",
+      "status": "loaded"
+    },
+    {
+      "route": "/businesses/",
+      "status": "loaded"
+    },
+    {
+      "route": "/businesses/petroleum/",
+      "status": "loaded"
+    },
+    {
+      "route": "/businesses/properties/",
+      "status": "loaded"
+    },
+    {
+      "route": "/businesses/gemstones/",
+      "status": "loaded"
+    },
+    {
+      "route": "/businesses/maritime/",
+      "status": "loaded"
+    },
+    {
+      "route": "/businesses/luxury/",
+      "status": "loaded"
+    },
+    {
+      "route": "/businesses/metals/",
+      "status": "loaded"
+    },
+    {
+      "route": "/businesses/chemicals/",
+      "status": "loaded"
+    },
+    {
+      "route": "/gallery/",
+      "status": "loaded"
+    },
+    {
+      "route": "/contact/",
+      "status": "loaded"
+    },
+    {
+      "route": "/privacy/",
+      "status": "loaded"
+    }
+  ],
+  "overflow": [],
+  "a11y": [
+    {
+      "route": "/",
+      "violations": []
+    },
+    {
+      "route": "/businesses/petroleum/",
+      "violations": []
+    },
+    {
+      "route": "/gallery/",
+      "violations": []
+    },
+    {
+      "route": "/contact/",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "badResponses": []
+}

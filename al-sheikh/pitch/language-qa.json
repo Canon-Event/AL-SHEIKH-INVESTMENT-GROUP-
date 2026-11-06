@@ -1,0 +1,61 @@
+{
+  "contentRoutes": 65,
+  "viewportChecks": 325,
+  "internalLinkTargets": 65,
+  "overflow": [],
+  "collisions": [],
+  "a11y": [
+    {
+      "locale": "en",
+      "route": "/",
+      "violations": []
+    },
+    {
+      "locale": "en",
+      "route": "/contact/",
+      "violations": []
+    },
+    {
+      "locale": "ar",
+      "route": "/",
+      "violations": []
+    },
+    {
+      "locale": "ar",
+      "route": "/contact/",
+      "violations": []
+    },
+    {
+      "locale": "fr",
+      "route": "/",
+      "violations": []
+    },
+    {
+      "locale": "fr",
+      "route": "/contact/",
+      "violations": []
+    },
+    {
+      "locale": "ak",
+      "route": "/",
+      "violations": []
+    },
+    {
+      "locale": "ak",
+      "route": "/contact/",
+      "violations": []
+    },
+    {
+      "locale": "zh",
+      "route": "/",
+      "violations": []
+    },
+    {
+      "locale": "zh",
+      "route": "/contact/",
+      "violations": []
+    }
+  ],
+  "errors": [],
+  "bad": []
+}

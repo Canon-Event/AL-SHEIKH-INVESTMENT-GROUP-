@@ -1,0 +1,627 @@
+{
+  "source_site": "https://www.alsheikhinvestmentgroup.com",
+  "extracted_at_utc": "2026-11-05T21:54:48Z",
+  "pages": [
+    {
+      "url": "https://www.alsheikhinvestmentgroup.com/",
+      "archive": "home.html",
+      "text": "home.txt",
+      "images": 70
+    },
+    {
+      "url": "https://www.alsheikhinvestmentgroup.com/services-1",
+      "archive": "services-1.html",
+      "text": "services-1.txt",
+      "images": 4
+    },
+    {
+      "url": "https://www.alsheikhinvestmentgroup.com/about-3-1",
+      "archive": "about-3-1.html",
+      "text": "about-3-1.txt",
+      "images": 2
+    },
+    {
+      "url": "https://www.alsheikhinvestmentgroup.com/about-3",
+      "archive": "about-3.html",
+      "text": "about-3.txt",
+      "images": 1
+    },
+    {
+      "url": "https://www.alsheikhinvestmentgroup.com/general-4",
+      "archive": "general-4.html",
+      "text": "general-4.txt",
+      "images": 1
+    },
+    {
+      "url": "https://www.alsheikhinvestmentgroup.com/about-7",
+      "archive": "about-7.html",
+      "text": "about-7.txt",
+      "images": 2
+    }
+  ],
+  "assets": {
+    "cf5f9e_8f33772d307346aca800cbb63c94f271~mv2.png": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_8f33772d307346aca800cbb63c94f271~mv2.png",
+      "alts": [
+        "Al Sheikh Investment Group logo"
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/",
+        "https://www.alsheikhinvestmentgroup.com/services-1",
+        "https://www.alsheikhinvestmentgroup.com/about-3-1",
+        "https://www.alsheikhinvestmentgroup.com/about-3",
+        "https://www.alsheikhinvestmentgroup.com/general-4",
+        "https://www.alsheikhinvestmentgroup.com/about-7"
+      ],
+      "file": "asset-library/originals/al-sheikh-investment-group-logo-a186ccd3.png",
+      "bytes": 903444,
+      "status": "downloaded",
+      "width": 662,
+      "height": 677
+    },
+    "11062b_858d8caee7ce4ece9db5a3cdd3cb83af~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/11062b_858d8caee7ce4ece9db5a3cdd3cb83af~mv2.jpg",
+      "alts": [
+        "Dubai City View"
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/dubai-city-view-8008d7e3.jpg",
+      "bytes": 9618057,
+      "status": "downloaded",
+      "width": 5000,
+      "height": 2650
+    },
+    "cf5f9e_879b01d0f4f647a09a1fed4eae6927b0~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_879b01d0f4f647a09a1fed4eae6927b0~mv2.jpg",
+      "alts": [
+        "Abjar Tower"
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/abjar-tower-e700b0e3.jpg",
+      "bytes": 92400,
+      "status": "downloaded",
+      "width": 500,
+      "height": 750
+    },
+    "cf5f9e_c3466e8a3bc94f45b71df9d0b5406440~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_c3466e8a3bc94f45b71df9d0b5406440~mv2.jpg",
+      "alts": [
+        "Petroleum "
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/petroleum-715d2eda.jpg",
+      "bytes": 51460,
+      "status": "downloaded",
+      "width": 540,
+      "height": 540
+    },
+    "cf5f9e_e9eabd3a35f34604956cd350ee3e49c9~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_e9eabd3a35f34604956cd350ee3e49c9~mv2.jpg",
+      "alts": [
+        "Emerald  "
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/emerald-ad01d7b3.jpg",
+      "bytes": 535669,
+      "status": "downloaded",
+      "width": 2133,
+      "height": 1651
+    },
+    "nsplsh_2843128f2dd942f5a790f1093fbdf6e1~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/nsplsh_2843128f2dd942f5a790f1093fbdf6e1~mv2.jpg",
+      "alts": [
+        "Image by Anita Jankovic"
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/image-by-anita-jankovic-9013caee.jpg",
+      "bytes": 2565687,
+      "status": "downloaded",
+      "width": 5331,
+      "height": 3994
+    },
+    "cf5f9e_4f8a9a31f8fb42088066594256c0ffc5~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_4f8a9a31f8fb42088066594256c0ffc5~mv2.jpg",
+      "alts": [
+        "Gold "
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gold-a29ffc03.jpg",
+      "bytes": 9887,
+      "status": "downloaded",
+      "width": 259,
+      "height": 194
+    },
+    "cf5f9e_5ff0b8f5505340eea66099402a471d3a~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_5ff0b8f5505340eea66099402a471d3a~mv2.jpg",
+      "alts": [
+        "Tanker "
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/tanker-763364f9.jpg",
+      "bytes": 74445,
+      "status": "downloaded",
+      "width": 800,
+      "height": 501
+    },
+    "cf5f9e_c612b8b3d0d14f2687d7f60c24b1ce3d~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_c612b8b3d0d14f2687d7f60c24b1ce3d~mv2.jpg",
+      "alts": [
+        "Tanks"
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/tanks-87b5f9ed.jpg",
+      "bytes": 270154,
+      "status": "downloaded",
+      "width": 1536,
+      "height": 1024
+    },
+    "cf5f9e_626dcf34aadf4eae9725097f13e7d04b~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_626dcf34aadf4eae9725097f13e7d04b~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-4df627bf.jpg",
+      "bytes": 2839879,
+      "status": "downloaded",
+      "width": 1244,
+      "height": 1333
+    },
+    "cf5f9e_2087a61515ad4249be6dd44b27419e8d~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_2087a61515ad4249be6dd44b27419e8d~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-c3e8aac0.jpeg",
+      "bytes": 432465,
+      "status": "downloaded",
+      "width": 950,
+      "height": 787
+    },
+    "cf5f9e_ae91db08a0af4ddc8614e60958746b71~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_ae91db08a0af4ddc8614e60958746b71~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-a8a793ea.jpeg",
+      "bytes": 92294,
+      "status": "downloaded",
+      "width": 810,
+      "height": 1080
+    },
+    "cf5f9e_0be3e9a592dd442296abd0c56ea50ebd~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_0be3e9a592dd442296abd0c56ea50ebd~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-88f179e3.jpeg",
+      "bytes": 96169,
+      "status": "downloaded",
+      "width": 774,
+      "height": 1032
+    },
+    "cf5f9e_73e642202e714785986103f45a978bbd~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_73e642202e714785986103f45a978bbd~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-d566d4da.jpeg",
+      "bytes": 257105,
+      "status": "downloaded",
+      "width": 1036,
+      "height": 1280
+    },
+    "cf5f9e_051daa86ade94b9e8f49d09d9f07e2ec~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_051daa86ade94b9e8f49d09d9f07e2ec~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-47fdb973.jpeg",
+      "bytes": 498948,
+      "status": "downloaded",
+      "width": 1080,
+      "height": 723
+    },
+    "cf5f9e_171e65e6bf4b49b08c37636fe412fa6c~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_171e65e6bf4b49b08c37636fe412fa6c~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-a155169a.jpeg",
+      "bytes": 425285,
+      "status": "downloaded",
+      "width": 957,
+      "height": 655
+    },
+    "cf5f9e_1db33a4548764c0ba011dd387a2596d0~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_1db33a4548764c0ba011dd387a2596d0~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-ce92962e.jpeg",
+      "bytes": 76558,
+      "status": "downloaded",
+      "width": 608,
+      "height": 1080
+    },
+    "cf5f9e_a6927d9810bb46409c0ab69053e09d42~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_a6927d9810bb46409c0ab69053e09d42~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-df06b529.jpeg",
+      "bytes": 57923,
+      "status": "downloaded",
+      "width": 1024,
+      "height": 768
+    },
+    "cf5f9e_d89e168cef614d4faea4ae59ad28add0~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_d89e168cef614d4faea4ae59ad28add0~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-c2b8e7b1.jpg",
+      "bytes": 30523,
+      "status": "downloaded",
+      "width": 684,
+      "height": 1100
+    },
+    "cf5f9e_fec056ea499c47619143e44c6baafd33~mv2.webp": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_fec056ea499c47619143e44c6baafd33~mv2.webp",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-175e0f48.webp",
+      "bytes": 593602,
+      "status": "downloaded",
+      "width": 1920,
+      "height": 1080
+    },
+    "cf5f9e_456dd2755c5241c6bd4cda754deaa5d7~mv2.webp": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_456dd2755c5241c6bd4cda754deaa5d7~mv2.webp",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-6b172fe4.webp",
+      "bytes": 125024,
+      "status": "downloaded",
+      "width": 1000,
+      "height": 1000
+    },
+    "cf5f9e_24490a585f1c4bab89fde3da92cec154~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_24490a585f1c4bab89fde3da92cec154~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-186fb6a3.jpg",
+      "bytes": 85219,
+      "status": "downloaded",
+      "width": 1080,
+      "height": 810
+    },
+    "cf5f9e_9c7d2dbc5edc4a0eaba426299ac34bb6~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_9c7d2dbc5edc4a0eaba426299ac34bb6~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-933185cf.jpeg",
+      "bytes": 140034,
+      "status": "downloaded",
+      "width": 768,
+      "height": 1024
+    },
+    "cf5f9e_ed4efb20911b41edbc5864d9e0b0d250~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_ed4efb20911b41edbc5864d9e0b0d250~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-6448dec2.jpg",
+      "bytes": 73449,
+      "status": "downloaded",
+      "width": 1024,
+      "height": 576
+    },
+    "cf5f9e_2cbeb990baab489883f9bdeb10ca870c~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_2cbeb990baab489883f9bdeb10ca870c~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-5811d11c.jpg",
+      "bytes": 89578,
+      "status": "downloaded",
+      "width": 748,
+      "height": 1000
+    },
+    "cf5f9e_e3cbbeef0926445995ef6a7952512a55~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_e3cbbeef0926445995ef6a7952512a55~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-44c6bf56.jpeg",
+      "bytes": 137542,
+      "status": "downloaded",
+      "width": 1280,
+      "height": 960
+    },
+    "cf5f9e_e996a3315a01450c9193b6026758ef50~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_e996a3315a01450c9193b6026758ef50~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-c2ceb269.jpeg",
+      "bytes": 64230,
+      "status": "downloaded",
+      "width": 500,
+      "height": 417
+    },
+    "cf5f9e_72f99fed0d5b43b29ee9db5632f5ff45~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_72f99fed0d5b43b29ee9db5632f5ff45~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-4904763f.jpg",
+      "bytes": 78661,
+      "status": "downloaded",
+      "width": 640,
+      "height": 440
+    },
+    "cf5f9e_3026c9f8a597425e84c1ad2c0fa99c4f~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_3026c9f8a597425e84c1ad2c0fa99c4f~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-6b94f0ac.jpg",
+      "bytes": 37995,
+      "status": "downloaded",
+      "width": 639,
+      "height": 509
+    },
+    "cf5f9e_718c7c3b3a894da380a303b00c1d2803~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_718c7c3b3a894da380a303b00c1d2803~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-28a23ab7.jpg",
+      "bytes": 67677,
+      "status": "downloaded",
+      "width": 592,
+      "height": 1040
+    },
+    "cf5f9e_aeeb48f11ea44b1eb4983ccf38609d90~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_aeeb48f11ea44b1eb4983ccf38609d90~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-6ee6f219.jpeg",
+      "bytes": 37543,
+      "status": "downloaded",
+      "width": 411,
+      "height": 465
+    },
+    "cf5f9e_3c0b05ad24d74a05b4c3936d3cd63fbd~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_3c0b05ad24d74a05b4c3936d3cd63fbd~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-c4193b50.jpg",
+      "bytes": 105845,
+      "status": "downloaded",
+      "width": 1040,
+      "height": 780
+    },
+    "cf5f9e_bf93149fa4934ae6b2c1bf1e7bdb4f02~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_bf93149fa4934ae6b2c1bf1e7bdb4f02~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-f8eaa021.jpg",
+      "bytes": 24889,
+      "status": "downloaded",
+      "width": 400,
+      "height": 300
+    },
+    "cf5f9e_095bbd5684344bb6bd468e474695e4f1~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_095bbd5684344bb6bd468e474695e4f1~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-50f24293.jpeg",
+      "bytes": 108449,
+      "status": "downloaded",
+      "width": 900,
+      "height": 1600
+    },
+    "cf5f9e_ba5b34b85d9044f2a03c909fedeb8bb2~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_ba5b34b85d9044f2a03c909fedeb8bb2~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-85e61c71.jpeg",
+      "bytes": 115860,
+      "status": "downloaded",
+      "width": 900,
+      "height": 1600
+    },
+    "cf5f9e_d2bb5e9bb38f4a4392bff4f6e1d70d6a~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_d2bb5e9bb38f4a4392bff4f6e1d70d6a~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-6dcee6f0.jpeg",
+      "bytes": 294524,
+      "status": "downloaded",
+      "width": 863,
+      "height": 575
+    },
+    "cf5f9e_8d6bebd485a14cd7913a0974be7f6f86~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_8d6bebd485a14cd7913a0974be7f6f86~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-86736f15.jpeg",
+      "bytes": 382170,
+      "status": "downloaded",
+      "width": 998,
+      "height": 596
+    },
+    "cf5f9e_33160d7cfd194c878927891318fb7460~mv2.jpeg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_33160d7cfd194c878927891318fb7460~mv2.jpeg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-cd2af147.jpeg",
+      "bytes": 547049,
+      "status": "downloaded",
+      "width": 1080,
+      "height": 619
+    },
+    "cf5f9e_cc966b9dfd3a40d89e8b1f11e5d50995~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_cc966b9dfd3a40d89e8b1f11e5d50995~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-314701f9.jpg",
+      "bytes": 65688,
+      "status": "downloaded",
+      "width": 728,
+      "height": 486
+    },
+    "11062b_7cf73902d06c4f3685c379a21c6c8285~mv2.png": {
+      "original_url": "https://static.wixstatic.com/media/11062b_7cf73902d06c4f3685c379a21c6c8285~mv2.png",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/"
+      ],
+      "file": "asset-library/originals/gallery-64a69c9c.png",
+      "bytes": 1836,
+      "status": "downloaded",
+      "width": 201,
+      "height": 201
+    },
+    "cf5f9e_bc27d99ad466467c9c9a407f3226a441~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_bc27d99ad466467c9c9a407f3226a441~mv2.jpg",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/services-1"
+      ],
+      "file": "asset-library/originals/gallery-03f7a455.jpg",
+      "bytes": 4528479,
+      "status": "downloaded",
+      "width": 2970,
+      "height": 1951
+    },
+    "11062b_02801667808141c4a24587ddf51c8964~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/11062b_02801667808141c4a24587ddf51c8964~mv2.jpg",
+      "alts": [
+        "Cargo Ship at Sea"
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/services-1"
+      ],
+      "file": "asset-library/originals/cargo-ship-at-sea-e6910c92.jpg",
+      "bytes": 11524706,
+      "status": "downloaded",
+      "width": 4900,
+      "height": 3266
+    },
+    "fdc8a1b7183a4e4591de19b31b0c02a1.jpg": {
+      "original_url": "https://static.wixstatic.com/media/fdc8a1b7183a4e4591de19b31b0c02a1.jpg",
+      "alts": [
+        "Cargo Shipping Containers"
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/services-1"
+      ],
+      "file": "asset-library/originals/cargo-shipping-containers-577e598a.jpg",
+      "bytes": 13186869,
+      "status": "downloaded",
+      "width": 5616,
+      "height": 3744
+    },
+    "11062b_e9149091f68b4d54b0279f9171ffb0f2~mv2.jpg": {
+      "original_url": "https://static.wixstatic.com/media/11062b_e9149091f68b4d54b0279f9171ffb0f2~mv2.jpg",
+      "alts": [
+        "Towering Skyscrapers"
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/about-3-1"
+      ],
+      "file": "asset-library/originals/towering-skyscrapers-c4a65f5b.jpg",
+      "bytes": 17553973,
+      "status": "downloaded",
+      "width": 3750,
+      "height": 5000
+    },
+    "cf5f9e_b4d67316e5704f6b889949cd2251cc6d~mv2.webp": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_b4d67316e5704f6b889949cd2251cc6d~mv2.webp",
+      "alts": [],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/about-3"
+      ],
+      "file": "asset-library/originals/gallery-e73bfeca.webp",
+      "bytes": 6544,
+      "status": "downloaded",
+      "width": 480,
+      "height": 270
+    },
+    "cf5f9e_d66791778f64490f97df908f9e49a0d5~mv2.png": {
+      "original_url": "https://static.wixstatic.com/media/cf5f9e_d66791778f64490f97df908f9e49a0d5~mv2.png",
+      "alts": [
+        "قصي الشيخ"
+      ],
+      "pages": [
+        "https://www.alsheikhinvestmentgroup.com/about-7"
+      ],
+      "file": "asset-library/originals/kussay-al-sheikh.png",
+      "bytes": 2741518,
+      "status": "downloaded",
+      "width": 1305,
+      "height": 1885
+    }
+  }
+}

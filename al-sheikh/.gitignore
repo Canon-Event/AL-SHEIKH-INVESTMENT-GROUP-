@@ -1,0 +1,8 @@
+node_modules/
+asset-library/originals/
+.impeccable/questions/
+.impeccable/mocks/
+.impeccable/review/
+.impeccable/concept-seed/
+*.tar.gz
+*.zip

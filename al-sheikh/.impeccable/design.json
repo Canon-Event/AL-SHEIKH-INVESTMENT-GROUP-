@@ -1,0 +1,504 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-11-05T22:34:13.406Z",
+  "title": "Design System: Al Sheikh Investment Group",
+  "extensions": {
+    "colorMeta": {
+      "ink": {
+        "role": "neutral",
+        "displayName": "Blue-black Ink",
+        "tonalRamp": [
+          "oklch(15% 0.0107 234.48)",
+          "oklch(25% 0.0178 234.48)",
+          "oklch(36% 0.0249 234.48)",
+          "oklch(47% 0.0249 234.48)",
+          "oklch(59% 0.0249 234.48)",
+          "oklch(71% 0.0249 234.48)",
+          "oklch(83% 0.0211 234.48)",
+          "oklch(95% 0.0062 234.48)"
+        ]
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Pale Paper",
+        "tonalRamp": [
+          "oklch(15% 0.0023 95.10)",
+          "oklch(25% 0.0039 95.10)",
+          "oklch(36% 0.0054 95.10)",
+          "oklch(47% 0.0054 95.10)",
+          "oklch(59% 0.0054 95.10)",
+          "oklch(71% 0.0054 95.10)",
+          "oklch(83% 0.0046 95.10)",
+          "oklch(95% 0.0014 95.10)"
+        ]
+      },
+      "stone": {
+        "role": "neutral",
+        "displayName": "Stone",
+        "tonalRamp": [
+          "oklch(15% 0.0035 98.88)",
+          "oklch(25% 0.0058 98.88)",
+          "oklch(36% 0.0081 98.88)",
+          "oklch(47% 0.0081 98.88)",
+          "oklch(59% 0.0081 98.88)",
+          "oklch(71% 0.0081 98.88)",
+          "oklch(83% 0.0069 98.88)",
+          "oklch(95% 0.0020 98.88)"
+        ]
+      },
+      "brass": {
+        "role": "primary",
+        "displayName": "Brass",
+        "tonalRamp": [
+          "oklch(15% 0.0311 75.48)",
+          "oklch(25% 0.0519 75.48)",
+          "oklch(36% 0.0727 75.48)",
+          "oklch(47% 0.0727 75.48)",
+          "oklch(59% 0.0727 75.48)",
+          "oklch(71% 0.0727 75.48)",
+          "oklch(83% 0.0618 75.48)",
+          "oklch(95% 0.0182 75.48)"
+        ]
+      },
+      "brass-light": {
+        "role": "primary",
+        "displayName": "Light Brass",
+        "tonalRamp": [
+          "oklch(15% 0.0224 77.55)",
+          "oklch(25% 0.0373 77.55)",
+          "oklch(36% 0.0523 77.55)",
+          "oklch(47% 0.0523 77.55)",
+          "oklch(59% 0.0523 77.55)",
+          "oklch(71% 0.0523 77.55)",
+          "oklch(83% 0.0444 77.55)",
+          "oklch(95% 0.0131 77.55)"
+        ]
+      },
+      "muted": {
+        "role": "neutral",
+        "displayName": "Muted Slate",
+        "tonalRamp": [
+          "oklch(15% 0.0059 209.80)",
+          "oklch(25% 0.0099 209.80)",
+          "oklch(36% 0.0138 209.80)",
+          "oklch(47% 0.0138 209.80)",
+          "oklch(59% 0.0138 209.80)",
+          "oklch(71% 0.0138 209.80)",
+          "oklch(83% 0.0117 209.80)",
+          "oklch(95% 0.0035 209.80)"
+        ]
+      },
+      "line": {
+        "role": "neutral",
+        "displayName": "Structural Line",
+        "tonalRamp": [
+          "oklch(15% 0.0036 121.65)",
+          "oklch(25% 0.0060 121.65)",
+          "oklch(36% 0.0084 121.65)",
+          "oklch(47% 0.0084 121.65)",
+          "oklch(59% 0.0084 121.65)",
+          "oklch(71% 0.0084 121.65)",
+          "oklch(83% 0.0071 121.65)",
+          "oklch(95% 0.0021 121.65)"
+        ]
+      },
+      "light-line": {
+        "role": "neutral",
+        "displayName": "Light Structural Line",
+        "tonalRamp": [
+          "oklch(15% 0.0000 89.88)",
+          "oklch(25% 0.0000 89.88)",
+          "oklch(36% 0.0000 89.88)",
+          "oklch(47% 0.0000 89.88)",
+          "oklch(59% 0.0000 89.88)",
+          "oklch(71% 0.0000 89.88)",
+          "oklch(83% 0.0000 89.88)",
+          "oklch(95% 0.0000 89.88)"
+        ]
+      },
+      "focus": {
+        "role": "neutral",
+        "displayName": "Focus Bronze",
+        "tonalRamp": [
+          "oklch(15% 0.0400 67.46)",
+          "oklch(25% 0.0666 67.46)",
+          "oklch(36% 0.0932 67.46)",
+          "oklch(47% 0.0932 67.46)",
+          "oklch(59% 0.0932 67.46)",
+          "oklch(71% 0.0932 67.46)",
+          "oklch(83% 0.0793 67.46)",
+          "oklch(95% 0.0233 67.46)"
+        ]
+      },
+      "dark-hover": {
+        "role": "neutral",
+        "displayName": "Dark Hover",
+        "tonalRamp": [
+          "oklch(15% 0.0131 230.29)",
+          "oklch(25% 0.0219 230.29)",
+          "oklch(36% 0.0306 230.29)",
+          "oklch(47% 0.0306 230.29)",
+          "oklch(59% 0.0306 230.29)",
+          "oklch(71% 0.0306 230.29)",
+          "oklch(83% 0.0260 230.29)",
+          "oklch(95% 0.0077 230.29)"
+        ]
+      },
+      "active-marker": {
+        "role": "primary",
+        "displayName": "Active Brass Marker",
+        "tonalRamp": [
+          "oklch(15% 0.0342 71.04)",
+          "oklch(25% 0.0569 71.04)",
+          "oklch(36% 0.0797 71.04)",
+          "oklch(47% 0.0797 71.04)",
+          "oklch(59% 0.0797 71.04)",
+          "oklch(71% 0.0797 71.04)",
+          "oklch(83% 0.0677 71.04)",
+          "oklch(95% 0.0199 71.04)"
+        ]
+      },
+      "field-line": {
+        "role": "neutral",
+        "displayName": "Field Line",
+        "tonalRamp": [
+          "oklch(15% 0.0064 162.35)",
+          "oklch(25% 0.0106 162.35)",
+          "oklch(36% 0.0149 162.35)",
+          "oklch(47% 0.0149 162.35)",
+          "oklch(59% 0.0149 162.35)",
+          "oklch(71% 0.0149 162.35)",
+          "oklch(83% 0.0127 162.35)",
+          "oklch(95% 0.0037 162.35)"
+        ]
+      },
+      "field-placeholder": {
+        "role": "neutral",
+        "displayName": "Field Placeholder",
+        "tonalRamp": [
+          "oklch(15% 0.0051 173.93)",
+          "oklch(25% 0.0085 173.93)",
+          "oklch(36% 0.0118 173.93)",
+          "oklch(47% 0.0118 173.93)",
+          "oklch(59% 0.0118 173.93)",
+          "oklch(71% 0.0118 173.93)",
+          "oklch(83% 0.0101 173.93)",
+          "oklch(95% 0.0030 173.93)"
+        ]
+      },
+      "field-focus": {
+        "role": "neutral",
+        "displayName": "Field Focus",
+        "tonalRamp": [
+          "oklch(15% 0.0361 69.00)",
+          "oklch(25% 0.0602 69.00)",
+          "oklch(36% 0.0842 69.00)",
+          "oklch(47% 0.0842 69.00)",
+          "oklch(59% 0.0842 69.00)",
+          "oklch(71% 0.0842 69.00)",
+          "oklch(83% 0.0716 69.00)",
+          "oklch(95% 0.0211 69.00)"
+        ]
+      },
+      "white": {
+        "role": "neutral",
+        "displayName": "White",
+        "tonalRamp": [
+          "oklch(15% 0.0000 89.88)",
+          "oklch(25% 0.0000 89.88)",
+          "oklch(36% 0.0000 89.88)",
+          "oklch(47% 0.0000 89.88)",
+          "oklch(59% 0.0000 89.88)",
+          "oklch(71% 0.0000 89.88)",
+          "oklch(83% 0.0000 89.88)",
+          "oklch(95% 0.0000 89.88)"
+        ]
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Home Display",
+        "purpose": "Home masthead with responsive clamp sizes."
+      },
+      "page-headline": {
+        "displayName": "Page Headline",
+        "purpose": "Light inner-page introductions."
+      },
+      "headline": {
+        "displayName": "Section Headline",
+        "purpose": "Primary section headings."
+      },
+      "editorial": {
+        "displayName": "Editorial Phrase",
+        "purpose": "Selective inline Gloock phrases inheriting headline size."
+      },
+      "title": {
+        "displayName": "Business Title",
+        "purpose": "Linked business index names."
+      },
+      "lead": {
+        "displayName": "Lead",
+        "purpose": "Opening explanation."
+      },
+      "body": {
+        "displayName": "Body",
+        "purpose": "Base reading style."
+      },
+      "supporting": {
+        "displayName": "Supporting",
+        "purpose": "Secondary explanatory paragraphs."
+      },
+      "button": {
+        "displayName": "Button",
+        "purpose": "Labeled solid actions."
+      },
+      "action-link": {
+        "displayName": "Text Link",
+        "purpose": "Underlined secondary actions."
+      },
+      "label": {
+        "displayName": "Label",
+        "purpose": "Visible form and interface labels."
+      },
+      "caption": {
+        "displayName": "Caption",
+        "purpose": "Business and image metadata."
+      },
+      "field": {
+        "displayName": "Field",
+        "purpose": "Native field text; 16px on phones."
+      }
+    },
+    "shadows": [
+      {
+        "name": "dropdown",
+        "value": "0 24px 35px #0c151d26",
+        "purpose": "Open desktop business directory only; removed on mobile."
+      },
+      {
+        "name": "dark-button-hover",
+        "value": "0 7px 20px #101e2615",
+        "purpose": "Faint hover response under the dark action."
+      }
+    ],
+    "motion": [
+      {
+        "name": "ease",
+        "value": "cubic-bezier(0.16, 1, 0.3, 1)",
+        "purpose": "Shared directional easing."
+      },
+      {
+        "name": "action-state",
+        "value": "0.25s",
+        "purpose": "Button fill, color, shadow and header arrival."
+      },
+      {
+        "name": "arrow",
+        "value": "0.35s",
+        "purpose": "4px button or 5px text-link arrow advance."
+      },
+      {
+        "name": "nav-rule",
+        "value": "0.3s",
+        "purpose": "Navigation underline and business row color states."
+      },
+      {
+        "name": "business-image",
+        "value": "0.2s",
+        "purpose": "Opacity transition, with 80ms preloaded swap delay."
+      },
+      {
+        "name": "photo-hover",
+        "value": "0.7s",
+        "purpose": "Directory and division image scale to 1.035."
+      },
+      {
+        "name": "world-photo-hover",
+        "value": "0.75s",
+        "purpose": "World tile scale to 1.035."
+      },
+      {
+        "name": "gallery-hover",
+        "value": "0.4s",
+        "purpose": "Brightness filter to 0.9."
+      },
+      {
+        "name": "skyline-arrival",
+        "value": "1.6s",
+        "purpose": "Clipped home image arrival only under no-preference."
+      },
+      {
+        "name": "reduced-motion",
+        "value": "0.01ms",
+        "purpose": "Global reduced CSS transition/animation duration with one iteration; CSS scrolling becomes auto."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "wide-min",
+        "value": "1600px"
+      },
+      {
+        "name": "compact-max",
+        "value": "1100px"
+      },
+      {
+        "name": "navigation-max",
+        "value": "800px"
+      },
+      {
+        "name": "navigation-desktop-min",
+        "value": "801px"
+      },
+      {
+        "name": "phone-max",
+        "value": "540px"
+      },
+      {
+        "name": "narrow-phone-max",
+        "value": "360px"
+      }
+    ],
+    "localization": {
+      "languages": [
+        "en",
+        "ar",
+        "fr",
+        "ak",
+        "zh"
+      ],
+      "rtl": [
+        "ar"
+      ],
+      "navigationCollapse": "1050px",
+      "picker": {
+        "native": "details/summary",
+        "optionMinHeight": "44px",
+        "flagRadius": "1px"
+      },
+      "fonts": {
+        "ar": "Noto Sans Arabic",
+        "zh": "Noto Sans SC"
+      },
+      "fontFormat": "self-hosted character-subset WOFF2",
+      "translationStatus": "AI-assisted draft; native review required",
+      "state": "URL prefix with current path, query and hash preserved"
+    }
+  },
+  "components": [
+    {
+      "name": "Brass Button",
+      "kind": "button",
+      "refersTo": "button-brass",
+      "description": "Primary action on dark photographic sections.",
+      "html": "<button class=\"ds-brass\" type=\"button\">Explore our businesses <svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M4 12h15M13 5l7 7-7 7\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></button>",
+      "css": ".ds-brass{display:inline-flex;align-items:center;justify-content:space-between;gap:34px;min-height:57px;padding:16px 23px;font:500 14px/1.5 Hanken,Arial,sans-serif;border:0;border-radius:0;cursor:pointer;transition:background .25s,box-shadow .25s,color .25s;background:var(--brass,#c7a678);color:var(--ink,#101e26)}.ds-brass svg{width:23px;height:23px;transition:transform .35s cubic-bezier(.16,1,.3,1)}.ds-brass:hover{background:var(--brass-light,#dfc8a6)}.ds-brass:hover svg{transform:translateX(4px)}.ds-brass:focus-visible{outline:2px solid #90612a;outline-offset:6px}.ds-brass:disabled{opacity:.5;cursor:default}@media(prefers-reduced-motion:reduce){.ds-brass,.ds-brass svg{transition-duration:.01ms}}"
+    },
+    {
+      "name": "Dark Button",
+      "kind": "button",
+      "refersTo": "button-dark",
+      "description": "Solid action on pale or brass surfaces.",
+      "html": "<button class=\"ds-dark\" type=\"button\">Prepare email enquiry <svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></button>",
+      "css": ".ds-dark{display:inline-flex;align-items:center;justify-content:space-between;gap:34px;min-height:57px;padding:16px 23px;font:500 14px/1.5 Hanken,Arial,sans-serif;border:0;border-radius:0;cursor:pointer;transition:background .25s,box-shadow .25s,color .25s;background:var(--ink,#101e26);color:var(--paper,#f7f6f2)}.ds-dark svg{width:23px;height:23px;transition:transform .35s cubic-bezier(.16,1,.3,1)}.ds-dark:hover{background:#2d414b;box-shadow:0 7px 20px #101e2615}.ds-dark:hover svg{transform:translateX(4px)}.ds-dark:focus-visible{outline:2px solid #90612a;outline-offset:6px}.ds-dark:disabled{opacity:.5;cursor:default}@media(prefers-reduced-motion:reduce){.ds-dark,.ds-dark svg{transition-duration:.01ms}}"
+    },
+    {
+      "name": "Text Link",
+      "kind": "button",
+      "refersTo": "text-link",
+      "description": "Underlined secondary destination with a moving arrow.",
+      "html": "<a class=\"ds-link\" href=\"/businesses/\">Explore our businesses <svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M4 12h15M13 5l7 7-7 7\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a>",
+      "css": ".ds-link{display:inline-flex;align-items:center;gap:25px;font:400 14px/1.4 Hanken,Arial,sans-serif;padding:7px 0;border:0;border-bottom:1px solid currentColor;background:none;color:var(--ink,#101e26);text-decoration:none;width:max-content;max-width:100%}.ds-link svg{width:22px;height:22px;transition:transform .35s cubic-bezier(.16,1,.3,1)}.ds-link:hover svg{transform:translateX(5px)}.ds-link:focus-visible{outline:2px solid #90612a;outline-offset:6px}@media(prefers-reduced-motion:reduce){.ds-link svg{transition-duration:.01ms}}"
+    },
+    {
+      "name": "Enquiry Field",
+      "kind": "input",
+      "refersTo": "field",
+      "description": "Visible label above a native underlined field.",
+      "html": "<div class=\"ds-field\"><label for=\"ds-full-name\">Full name <span>(required)</span></label><input id=\"ds-full-name\" name=\"name\" autocomplete=\"name\" required placeholder=\"Your full name\"></div>",
+      "css": ".ds-field{font-family:Hanken,Arial,sans-serif;background:var(--stone,#eeede7);color:var(--ink,#101e26);max-width:400px}.ds-field label{display:block;font-size:12px;margin-bottom:8px}.ds-field label span{color:var(--muted,#5f6a6c);font-size:11px;margin-left:3px}.ds-field input{width:100%;max-width:100%;border:0;border-bottom:1px solid #a9b4ae;background:transparent;color:var(--ink,#101e26);font:400 13px/1.6 Hanken,Arial,sans-serif;padding:10px 0 11px;border-radius:0;min-height:44px;caret-color:#8d6536;transition:border-color .2s}.ds-field input::placeholder{color:#68716e;opacity:1}.ds-field input:focus{border-bottom-color:#8a6130}.ds-field input:focus-visible{outline:2px solid #90612a;outline-offset:2px}@media(max-width:540px){.ds-field input{font-size:16px}.ds-field label{font-size:12px}}"
+    },
+    {
+      "name": "Business Navigation",
+      "kind": "nav",
+      "description": "Native details disclosure with normal division links.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Main navigation\"><a href=\"/about/\" aria-current=\"page\">The group</a><details class=\"ds-menu\"><summary>Our businesses <svg viewBox=\"0 0 16 16\" fill=\"none\" aria-hidden=\"true\"><path d=\"m4 6 4 4 4-4\" stroke=\"currentColor\" stroke-width=\"1.4\"/></svg></summary><div class=\"ds-menu-links\"><a href=\"/businesses/petroleum/\">Energy &amp; petroleum <svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a><a href=\"/businesses/properties/\">Real estate <svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a><a href=\"/businesses/\">Explore the group <svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M4 12h15M13 5l7 7-7 7\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></a></div></details><a href=\"/gallery/\">Our world</a></nav>",
+      "css": ".ds-nav{display:flex;align-items:center;gap:34px;background:var(--ink,#101e26);color:var(--paper,#f7f6f2);font:400 14px/1.65 Hanken,Arial,sans-serif;padding:20px}.ds-nav a{color:inherit;text-decoration:none}.ds-nav>a,.ds-menu summary{position:relative;padding:12px 0}.ds-nav>a:after,.ds-menu summary:after{content:\"\";height:1px;position:absolute;bottom:4px;left:0;right:100%;background:var(--brass,#c7a678);transition:right .3s cubic-bezier(.16,1,.3,1)}.ds-nav>a:hover:after,.ds-nav>a[aria-current]:after,.ds-menu[open] summary:after{right:0}.ds-menu{position:relative}.ds-menu summary{display:flex;align-items:center;gap:7px;cursor:pointer;list-style:none}.ds-menu summary::-webkit-details-marker{display:none}.ds-menu summary svg{width:14px;height:14px;transition:transform .25s}.ds-menu[open] summary svg{transform:rotate(180deg)}.ds-menu-links{background:var(--ink,#101e26);padding:20px;min-width:250px;box-shadow:0 24px 35px #0c151d26}.ds-menu-links a{display:flex;align-items:center;justify-content:space-between;gap:20px;padding:13px 0;border-bottom:1px solid var(--light-line,#ffffff29);font-size:15px}.ds-menu-links svg{width:18px;height:18px}.ds-menu-links a:hover{color:var(--brass-light,#dfc8a6)}.ds-nav a:focus-visible,.ds-nav summary:focus-visible{outline:2px solid var(--brass-light,#dfc8a6);outline-offset:6px}@media(max-width:800px){.ds-nav{align-items:stretch;flex-direction:column;gap:0}.ds-menu-links{box-shadow:none;padding:0 0 20px}.ds-nav>a,.ds-menu summary{font-size:22px;line-height:1.4;padding:16px 0}}"
+    },
+    {
+      "name": "Product Tag",
+      "kind": "chip",
+      "refersTo": "product-tag",
+      "description": "Static material label; not an interactive button.",
+      "html": "<span class=\"ds-tag\">Crude oil</span>",
+      "css": ".ds-tag{display:inline-block;border:1px solid #c5cdc5;padding:9px 16px;font:400 12px/1.65 Hanken,Arial,sans-serif;color:var(--ink,#101e26);background:transparent;border-radius:0}@media(max-width:800px){.ds-tag{font-size:11px;padding:8px 12px}}@media(max-width:540px){.ds-tag{padding:9px 14px}}"
+    },
+    {
+      "name": "Gallery Filter",
+      "kind": "chip",
+      "refersTo": "gallery-filter",
+      "description": "Native pressed-state filter button.",
+      "html": "<div class=\"ds-filters\" role=\"group\" aria-label=\"Filter gallery\"><button type=\"button\" aria-pressed=\"true\">All</button><button type=\"button\" aria-pressed=\"false\">Energy</button></div>",
+      "css": ".ds-filters{display:flex;flex-wrap:wrap;gap:5px}.ds-filters button{border:0;border-radius:0;background:transparent;color:var(--ink,#101e26);padding:9px 14px;font:400 12px/1.65 Hanken,Arial,sans-serif;cursor:pointer;transition:background .2s,color .2s}.ds-filters button[aria-pressed=\"true\"]{background:var(--ink,#101e26);color:white}.ds-filters button:hover:not([aria-pressed=\"true\"]){background:#e3e5de}.ds-filters button:focus-visible{outline:2px solid #90612a;outline-offset:6px}@media(max-width:800px){.ds-filters button{font-size:11px;padding:9px 12px}}@media(max-width:540px){.ds-filters button{padding:9px 11px}}"
+    },
+    {
+      "name": "Capability Article",
+      "kind": "card",
+      "refersTo": "capability",
+      "description": "Open ruled article on the shared stone section surface.",
+      "html": "<article class=\"ds-capability\"><h3>Petroleum trading</h3><p>Sale and purchase of crude oil, fuel oil, gas oil, gasoline and bitumen.</p></article>",
+      "css": ".ds-capability{padding:28px 0 30px;border-top:1px solid #c7cec7;display:grid;grid-template-columns:1fr;gap:16px;background:var(--stone,#eeede7);color:var(--ink,#101e26);font-family:Hanken,Arial,sans-serif}.ds-capability h3{font-size:23px;font-weight:500;line-height:1.12;letter-spacing:-.02em;margin:0}.ds-capability p{font-size:14px;line-height:1.85;color:var(--muted,#5f6a6c);max-width:440px;margin:0}@media(max-width:800px){.ds-capability h3{font-size:20px}.ds-capability p{font-size:13px}}@media(max-width:540px){.ds-capability{padding:24px 0;gap:13px}.ds-capability h3{font-size:22px}.ds-capability p{font-size:14px;line-height:1.95}}"
+    },
+    {
+      "name": "Active Business Row",
+      "kind": "custom",
+      "refersTo": "business-row",
+      "description": "Normal business destination with a visible active evidence marker.",
+      "html": "<a class=\"ds-business ds-active\" href=\"/businesses/petroleum/\"><span class=\"ds-business-title\">Energy &amp; petroleum<small>KAS Petroleum</small></span><span class=\"ds-business-arrow\"><svg viewBox=\"0 0 24 24\" fill=\"none\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\" stroke=\"currentColor\" stroke-width=\"1.5\"/></svg></span></a>",
+      "css": ".ds-business{display:flex;align-items:center;justify-content:space-between;gap:18px;border-top:1px solid #cacfc9;padding:18px 0;min-height:82px;position:relative;color:var(--ink,#101e26);font-family:Hanken,Arial,sans-serif;text-decoration:none;transition:color .3s,padding .35s cubic-bezier(.16,1,.3,1)}.ds-business-title{font-size:22px;line-height:1.2;letter-spacing:-.025em}.ds-business small{display:block;color:var(--muted,#5f6a6c);font-size:11px;line-height:1.5;margin-top:5px;letter-spacing:0}.ds-business-arrow{display:flex;align-items:center;justify-content:center;width:38px;height:38px;border-radius:50%;transition:background .3s,color .3s}.ds-business-arrow svg{width:22px;height:22px}.ds-active{padding-left:12px}.ds-active:before{content:\"\";position:absolute;width:3px;height:24px;background:#987243;left:0}.ds-active .ds-business-arrow,.ds-business:hover .ds-business-arrow{background:var(--ink,#101e26);color:var(--paper,#f7f6f2)}.ds-business:focus-visible{outline:2px solid #90612a;outline-offset:6px}@media(max-width:540px){.ds-business{padding:15px 0;min-height:73px}.ds-active{padding-left:11px}.ds-active:before{height:20px}.ds-business-title{font-size:20px}.ds-business-arrow{width:35px;height:35px}}"
+    }
+  ],
+  "narrative": {
+    "northStar": "The Commodity Exchange Bulletin",
+    "overview": "A global trading group's breadth becomes tangible through real photographs, direct business names and a precise typographic index. Blue-black establishes corporate weight; Paper and Stone open the reading surfaces; Brass connects actions to the retained gold seal.\n\nThe system is spacious and editorial. Hanken carries information and interaction; Gloock adds deliberate contrast inside substantial headlines. Thin rules organize open columns, while rectangular photographs show the group's places, materials and activities. Motion explains a state or gives an image a restrained arrival.",
+    "keyCharacteristics": [
+      "Image-led discovery using preserved company assets.",
+      "Blue-black, pale surfaces and a deliberate brass accent.",
+      "Direct sans-serif type with selective editorial serif phrases.",
+      "Rectangular actions, thin rules and generous open columns.",
+      "Native controls, visible keyboard focus and responsive reflow."
+    ],
+    "rules": [
+      {
+        "name": "The Surface Contrast Rule",
+        "body": "Use pale text on blue-black structural surfaces and Ink text on pale or Brass surfaces. Preserve the existing scrims wherever text overlays photography.",
+        "section": "colors"
+      },
+      {
+        "name": "The Two Voices Rule",
+        "body": "Keep Hanken on information and interaction; reserve Gloock for deliberate headline phrases. Keep navigation, fields and body copy in Hanken.",
+        "section": "typography"
+      },
+      {
+        "name": "The Open Surface Rule",
+        "body": "Separate editorial groups with thin rules, whitespace and surface changes. Reserve the observed shadows for the dropdown and dark-action hover.",
+        "section": "elevation"
+      }
+    ],
+    "dos": [
+      "**Do** retain the real gold seal, local Hanken/Gloock pairing and company image provenance.",
+      "**Do** organize information with open columns, thin rules and alternating Ink, Paper and Stone surfaces.",
+      "**Do** keep business rows as links and update their evidence on keyboard focus as well as pointer hover.",
+      "**Do** preserve responsive stacking, 16px phone fields, visible labels and native control behavior.",
+      "**Do** describe enquiry preparation and let the person choose to open or copy the draft."
+    ],
+    "donts": [
+      "**Don't** turn editorial groups into rounded, shadowed cards or apply the dropdown shadow to resting content.",
+      "**Don't** extend Gloock into body copy, navigation or fields, or replace the display family with a system font.",
+      "**Don't** replace substantive headings with decorative eyebrows, or present static product tags as controls.",
+      "**Don't** use glyph characters as interface icons; preserve the inline line SVGs.",
+      "**Don't** remove photo scrims or crop the modal image when the complete asset is being inspected.",
+      "**Don't** claim an enquiry was sent by this website or use gallery imagery as invented proof of owned projects."
+    ]
+  }
+}

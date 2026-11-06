@@ -1,0 +1,387 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "name": "dubai-night",
+      "original_file": "asset-library/originals/dubai-city-view-8008d7e3.jpg",
+      "source": "https://static.wixstatic.com/media/11062b_858d8caee7ce4ece9db5a3cdd3cb83af~mv2.jpg",
+      "width": 5000,
+      "height": 2650
+    },
+    {
+      "id": 2,
+      "name": "abjar-tower",
+      "original_file": "asset-library/originals/abjar-tower-e700b0e3.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_879b01d0f4f647a09a1fed4eae6927b0~mv2.jpg",
+      "width": 500,
+      "height": 750
+    },
+    {
+      "id": 3,
+      "name": "petroleum",
+      "original_file": "asset-library/originals/petroleum-715d2eda.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_c3466e8a3bc94f45b71df9d0b5406440~mv2.jpg",
+      "width": 540,
+      "height": 540
+    },
+    {
+      "id": 4,
+      "name": "emeralds",
+      "original_file": "asset-library/originals/emerald-ad01d7b3.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_e9eabd3a35f34604956cd350ee3e49c9~mv2.jpg",
+      "width": 2133,
+      "height": 1651
+    },
+    {
+      "id": 5,
+      "name": "luxury-auction",
+      "original_file": "asset-library/originals/image-by-anita-jankovic-9013caee.jpg",
+      "source": "https://static.wixstatic.com/media/nsplsh_2843128f2dd942f5a790f1093fbdf6e1~mv2.jpg",
+      "width": 5331,
+      "height": 3994
+    },
+    {
+      "id": 6,
+      "name": "gold",
+      "original_file": "asset-library/originals/gold-a29ffc03.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_4f8a9a31f8fb42088066594256c0ffc5~mv2.jpg",
+      "width": 259,
+      "height": 194
+    },
+    {
+      "id": 7,
+      "name": "tanker",
+      "original_file": "asset-library/originals/tanker-763364f9.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_5ff0b8f5505340eea66099402a471d3a~mv2.jpg",
+      "width": 800,
+      "height": 501
+    },
+    {
+      "id": 8,
+      "name": "chemical-drums",
+      "original_file": "asset-library/originals/tanks-87b5f9ed.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_c612b8b3d0d14f2687d7f60c24b1ce3d~mv2.jpg",
+      "width": 1536,
+      "height": 1024
+    },
+    {
+      "id": 9,
+      "name": "offshore",
+      "original_file": "asset-library/originals/gallery-4df627bf.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_626dcf34aadf4eae9725097f13e7d04b~mv2.jpg",
+      "width": 1244,
+      "height": 1333
+    },
+    {
+      "id": 10,
+      "name": "chemical-warehouse",
+      "original_file": "asset-library/originals/gallery-c3e8aac0.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_2087a61515ad4249be6dd44b27419e8d~mv2.jpeg",
+      "width": 950,
+      "height": 787
+    },
+    {
+      "id": 11,
+      "name": "bulk-materials",
+      "original_file": "asset-library/originals/gallery-a8a793ea.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_ae91db08a0af4ddc8614e60958746b71~mv2.jpeg",
+      "width": 810,
+      "height": 1080
+    },
+    {
+      "id": 12,
+      "name": "bagged-materials",
+      "original_file": "asset-library/originals/gallery-88f179e3.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_0be3e9a592dd442296abd0c56ea50ebd~mv2.jpeg",
+      "width": 774,
+      "height": 1032
+    },
+    {
+      "id": 13,
+      "name": "residential-towers",
+      "original_file": "asset-library/originals/gallery-d566d4da.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_73e642202e714785986103f45a978bbd~mv2.jpeg",
+      "width": 1036,
+      "height": 1280
+    },
+    {
+      "id": 14,
+      "name": "villa",
+      "original_file": "asset-library/originals/gallery-47fdb973.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_051daa86ade94b9e8f49d09d9f07e2ec~mv2.jpeg",
+      "width": 1080,
+      "height": 723
+    },
+    {
+      "id": 15,
+      "name": "dubai-marina",
+      "original_file": "asset-library/originals/gallery-a155169a.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_171e65e6bf4b49b08c37636fe412fa6c~mv2.jpeg",
+      "width": 957,
+      "height": 655
+    },
+    {
+      "id": 16,
+      "name": "gold-bars",
+      "original_file": "asset-library/originals/gallery-ce92962e.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_1db33a4548764c0ba011dd387a2596d0~mv2.jpeg",
+      "width": 608,
+      "height": 1080
+    },
+    {
+      "id": 17,
+      "name": "gold-reserves",
+      "original_file": "asset-library/originals/gallery-df06b529.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_a6927d9810bb46409c0ab69053e09d42~mv2.jpeg",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "id": 18,
+      "name": "cut-emerald",
+      "original_file": "asset-library/originals/gallery-c2b8e7b1.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_d89e168cef614d4faea4ae59ad28add0~mv2.jpg",
+      "width": 684,
+      "height": 1100
+    },
+    {
+      "id": 19,
+      "name": "rough-diamond",
+      "original_file": "asset-library/originals/gallery-175e0f48.webp",
+      "source": "https://static.wixstatic.com/media/cf5f9e_fec056ea499c47619143e44c6baafd33~mv2.webp",
+      "width": 1920,
+      "height": 1080
+    },
+    {
+      "id": 20,
+      "name": "rough-gemstones",
+      "original_file": "asset-library/originals/gallery-6b172fe4.webp",
+      "source": "https://static.wixstatic.com/media/cf5f9e_456dd2755c5241c6bd4cda754deaa5d7~mv2.webp",
+      "width": 1000,
+      "height": 1000
+    },
+    {
+      "id": 21,
+      "name": "sulphur-granules",
+      "original_file": "asset-library/originals/gallery-186fb6a3.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_24490a585f1c4bab89fde3da92cec154~mv2.jpg",
+      "width": 1080,
+      "height": 810
+    },
+    {
+      "id": 22,
+      "name": "sulphur-stock",
+      "original_file": "asset-library/originals/gallery-933185cf.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_9c7d2dbc5edc4a0eaba426299ac34bb6~mv2.jpeg",
+      "width": 768,
+      "height": 1024
+    },
+    {
+      "id": 23,
+      "name": "bulk-cargo",
+      "original_file": "asset-library/originals/gallery-6448dec2.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_ed4efb20911b41edbc5864d9e0b0d250~mv2.jpg",
+      "width": 1024,
+      "height": 576
+    },
+    {
+      "id": 24,
+      "name": "bulk-bags",
+      "original_file": "asset-library/originals/gallery-5811d11c.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_2cbeb990baab489883f9bdeb10ca870c~mv2.jpg",
+      "width": 748,
+      "height": 1000
+    },
+    {
+      "id": 25,
+      "name": "steel-coils",
+      "original_file": "asset-library/originals/gallery-44c6bf56.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_e3cbbeef0926445995ef6a7952512a55~mv2.jpeg",
+      "width": 1280,
+      "height": 960
+    },
+    {
+      "id": 26,
+      "name": "metal-ingots",
+      "original_file": "asset-library/originals/gallery-c2ceb269.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_e996a3315a01450c9193b6026758ef50~mv2.jpeg",
+      "width": 500,
+      "height": 417
+    },
+    {
+      "id": 27,
+      "name": "steel-rebar",
+      "original_file": "asset-library/originals/gallery-4904763f.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_72f99fed0d5b43b29ee9db5632f5ff45~mv2.jpg",
+      "width": 640,
+      "height": 440
+    },
+    {
+      "id": 28,
+      "name": "aluminium-ingots",
+      "original_file": "asset-library/originals/gallery-6b94f0ac.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_3026c9f8a597425e84c1ad2c0fa99c4f~mv2.jpg",
+      "width": 639,
+      "height": 509
+    },
+    {
+      "id": 29,
+      "name": "metal-billets",
+      "original_file": "asset-library/originals/gallery-28a23ab7.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_718c7c3b3a894da380a303b00c1d2803~mv2.jpg",
+      "width": 592,
+      "height": 1040
+    },
+    {
+      "id": 30,
+      "name": "copper-cathodes",
+      "original_file": "asset-library/originals/gallery-6ee6f219.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_aeeb48f11ea44b1eb4983ccf38609d90~mv2.jpeg",
+      "width": 411,
+      "height": 465
+    },
+    {
+      "id": 31,
+      "name": "copper-wire",
+      "original_file": "asset-library/originals/gallery-c4193b50.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_3c0b05ad24d74a05b4c3936d3cd63fbd~mv2.jpg",
+      "width": 1040,
+      "height": 780
+    },
+    {
+      "id": 32,
+      "name": "copper-plates",
+      "original_file": "asset-library/originals/gallery-f8eaa021.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_bf93149fa4934ae6b2c1bf1e7bdb4f02~mv2.jpg",
+      "width": 400,
+      "height": 300
+    },
+    {
+      "id": 33,
+      "name": "storage-silos",
+      "original_file": "asset-library/originals/gallery-50f24293.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_095bbd5684344bb6bd468e474695e4f1~mv2.jpeg",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "id": 34,
+      "name": "industrial-storage",
+      "original_file": "asset-library/originals/gallery-85e61c71.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_ba5b34b85d9044f2a03c909fedeb8bb2~mv2.jpeg",
+      "width": 900,
+      "height": 1600
+    },
+    {
+      "id": 35,
+      "name": "chemical-containers",
+      "original_file": "asset-library/originals/gallery-6dcee6f0.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_d2bb5e9bb38f4a4392bff4f6e1d70d6a~mv2.jpeg",
+      "width": 863,
+      "height": 575
+    },
+    {
+      "id": 36,
+      "name": "warehouse",
+      "original_file": "asset-library/originals/gallery-86736f15.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_8d6bebd485a14cd7913a0974be7f6f86~mv2.jpeg",
+      "width": 998,
+      "height": 596
+    },
+    {
+      "id": 37,
+      "name": "greenhouse",
+      "original_file": "asset-library/originals/gallery-cd2af147.jpeg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_33160d7cfd194c878927891318fb7460~mv2.jpeg",
+      "width": 1080,
+      "height": 619
+    },
+    {
+      "id": 38,
+      "name": "agriculture",
+      "original_file": "asset-library/originals/gallery-314701f9.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_cc966b9dfd3a40d89e8b1f11e5d50995~mv2.jpg",
+      "width": 728,
+      "height": 486
+    },
+    {
+      "id": 40,
+      "name": "refinery",
+      "original_file": "asset-library/originals/gallery-03f7a455.jpg",
+      "source": "https://static.wixstatic.com/media/cf5f9e_bc27d99ad466467c9c9a407f3226a441~mv2.jpg",
+      "width": 2970,
+      "height": 1951
+    },
+    {
+      "id": 41,
+      "name": "cargo-ship",
+      "original_file": "asset-library/originals/cargo-ship-at-sea-e6910c92.jpg",
+      "source": "https://static.wixstatic.com/media/11062b_02801667808141c4a24587ddf51c8964~mv2.jpg",
+      "width": 4900,
+      "height": 3266
+    },
+    {
+      "id": 42,
+      "name": "cargo-containers",
+      "original_file": "asset-library/originals/cargo-shipping-containers-577e598a.jpg",
+      "source": "https://static.wixstatic.com/media/fdc8a1b7183a4e4591de19b31b0c02a1.jpg",
+      "width": 5616,
+      "height": 3744
+    },
+    {
+      "id": 43,
+      "name": "skyscrapers",
+      "original_file": "asset-library/originals/towering-skyscrapers-c4a65f5b.jpg",
+      "source": "https://static.wixstatic.com/media/11062b_e9149091f68b4d54b0279f9171ffb0f2~mv2.jpg",
+      "width": 3750,
+      "height": 5000
+    },
+    {
+      "id": 44,
+      "name": "rough-emerald",
+      "original_file": "asset-library/originals/gallery-e73bfeca.webp",
+      "source": "https://static.wixstatic.com/media/cf5f9e_b4d67316e5704f6b889949cd2251cc6d~mv2.webp",
+      "width": 480,
+      "height": 270
+    },
+    {
+      "name": "chairman",
+      "original_file": "asset-library/originals/kussay-al-sheikh.png",
+      "source": "https://static.wixstatic.com/media/cf5f9e_d66791778f64490f97df908f9e49a0d5~mv2.png",
+      "width": 1305,
+      "height": 1885
+    }
+  ],
+  "fonts": [
+    {
+      "family": "hanken-grotesk",
+      "file": "hanken-grotesk.ttf",
+      "source": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_Ncs2Za4Q.ttf",
+      "stylesheet": "https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&display=swap"
+    },
+    {
+      "family": "hanken-grotesk",
+      "file": "hanken-grotesk-1.ttf",
+      "source": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcgWZa4Q.ttf",
+      "stylesheet": "https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&display=swap"
+    },
+    {
+      "family": "hanken-grotesk",
+      "file": "hanken-grotesk-2.ttf",
+      "source": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcbWFa4Q.ttf",
+      "stylesheet": "https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&display=swap"
+    },
+    {
+      "family": "hanken-grotesk",
+      "file": "hanken-grotesk-3.ttf",
+      "source": "https://fonts.gstatic.com/s/hankengrotesk/v12/ieVq2YZDLWuGJpnzaiwFXS9tYvBRzyFLlZg_f_NcVGFa4Q.ttf",
+      "stylesheet": "https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&display=swap"
+    },
+    {
+      "family": "gloock",
+      "file": "gloock.ttf",
+      "source": "https://fonts.gstatic.com/s/gloock/v8/Iurb6YFw84WUY4N5jw.ttf",
+      "stylesheet": "https://fonts.googleapis.com/css2?family=Gloock&display=swap"
+    }
+  ]
+}

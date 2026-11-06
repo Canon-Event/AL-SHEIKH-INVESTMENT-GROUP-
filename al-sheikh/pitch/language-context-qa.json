@@ -1,0 +1,40 @@
+{
+  "checks": [
+    {
+      "locale": "en",
+      "galleryFilter": "preserved after changes",
+      "hash": "preserved after changes",
+      "selectedDivision": "preserved after changes",
+      "openPickerAxe": 0
+    },
+    {
+      "locale": "ar",
+      "galleryFilter": "preserved after changes",
+      "hash": "preserved after changes",
+      "selectedDivision": "preserved after changes",
+      "openPickerAxe": 0
+    },
+    {
+      "locale": "fr",
+      "galleryFilter": "preserved after changes",
+      "hash": "preserved after changes",
+      "selectedDivision": "preserved after changes",
+      "openPickerAxe": 0
+    },
+    {
+      "locale": "ak",
+      "galleryFilter": "preserved after changes",
+      "hash": "preserved after changes",
+      "selectedDivision": "preserved after changes",
+      "openPickerAxe": 0
+    },
+    {
+      "locale": "zh",
+      "galleryFilter": "preserved after changes",
+      "hash": "preserved after changes",
+      "selectedDivision": "preserved after changes",
+      "openPickerAxe": 0
+    }
+  ],
+  "issues": []
+}

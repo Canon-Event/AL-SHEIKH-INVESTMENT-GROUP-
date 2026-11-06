@@ -1,0 +1,8 @@
+# The website lives in this subdirectory of the GitHub repository.
+[build]
+  base = "al-sheikh"
+  command = "npm run build"
+  publish = "dist"
+
+[build.environment]
+  NODE_VERSION = "22"
