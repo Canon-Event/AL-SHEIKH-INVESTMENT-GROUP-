@@ -1,0 +1,6 @@
+{
+  "name": "al-sheikh-design-qa",
+  "private": true,
+  "type": "module",
+  "devDependencies": { "@playwright/test": "^1.56.1", "@axe-core/playwright": "^4.10.2" }
+}

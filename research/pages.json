@@ -1,0 +1,38 @@
+[
+  {
+    "url": "https://www.alsheikhinvestmentgroup.com/",
+    "archive": "home.html",
+    "text": "home.txt",
+    "images": 70
+  },
+  {
+    "url": "https://www.alsheikhinvestmentgroup.com/services-1",
+    "archive": "services-1.html",
+    "text": "services-1.txt",
+    "images": 4
+  },
+  {
+    "url": "https://www.alsheikhinvestmentgroup.com/about-3-1",
+    "archive": "about-3-1.html",
+    "text": "about-3-1.txt",
+    "images": 2
+  },
+  {
+    "url": "https://www.alsheikhinvestmentgroup.com/about-3",
+    "archive": "about-3.html",
+    "text": "about-3.txt",
+    "images": 1
+  },
+  {
+    "url": "https://www.alsheikhinvestmentgroup.com/general-4",
+    "archive": "general-4.html",
+    "text": "general-4.txt",
+    "images": 1
+  },
+  {
+    "url": "https://www.alsheikhinvestmentgroup.com/about-7",
+    "archive": "about-7.html",
+    "text": "about-7.txt",
+    "images": 2
+  }
+]

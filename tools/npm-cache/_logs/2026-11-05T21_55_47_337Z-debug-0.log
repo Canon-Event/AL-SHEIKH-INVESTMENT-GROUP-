@@ -1,0 +1,72 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.2
+2 info using node@v22.15.1
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:E:\OneDrive\Desktop\dubai\tools\.npmrc
+5 silly config load:file:C:\Users\Saksham\.npmrc
+6 silly config load:file:C:\Users\Saksham\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--cache" "E:\\OneDrive\\Desktop\\dubai\\tools\\npm-cache" "--no-audit" "--no-fund"
+9 verbose logfile logs-max:10 dir:E:\OneDrive\Desktop\dubai\tools\npm-cache\_logs\2026-11-05T21_55_47_337Z-
+10 verbose logfile E:\OneDrive\Desktop\dubai\tools\npm-cache\_logs\2026-11-05T21_55_47_337Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:2197815296 maxSize:549453824 maxEntrySize:274726912
+13 silly idealTree buildDeps
+14 silly fetch manifest @playwright/test@^1.56.1
+15 silly packumentCache full:https://registry.npmjs.org/@playwright%2ftest cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/npm 874ms
+17 http fetch GET 200 https://registry.npmjs.org/@playwright%2ftest 1208ms (cache miss)
+18 silly packumentCache full:https://registry.npmjs.org/@playwright%2ftest set size:undefined disposed:false
+19 silly fetch manifest @axe-core/playwright@^4.10.2
+20 silly packumentCache full:https://registry.npmjs.org/@axe-core%2fplaywright cache-miss
+21 http fetch GET 200 https://registry.npmjs.org/@axe-core%2fplaywright 597ms (cache miss)
+22 silly packumentCache full:https://registry.npmjs.org/@axe-core%2fplaywright set size:undefined disposed:false
+23 silly fetch manifest playwright-core@>= 1.0.0
+24 silly packumentCache full:https://registry.npmjs.org/playwright-core cache-miss
+25 http fetch GET 200 https://registry.npmjs.org/playwright-core 377ms (cache miss)
+26 silly packumentCache full:https://registry.npmjs.org/playwright-core set size:undefined disposed:false
+27 silly placeDep ROOT @axe-core/playwright@4.14.0 OK for:  want: ^4.10.2
+28 silly placeDep ROOT playwright-core@1.65.0 OK for: @axe-core/playwright@4.14.0 want: >= 1.0.0
+29 silly placeDep ROOT @playwright/test@1.65.0 OK for:  want: ^1.56.1
+30 silly fetch manifest axe-core@~4.14.0
+31 silly packumentCache full:https://registry.npmjs.org/axe-core cache-miss
+32 silly fetch manifest playwright@1.65.0
+33 silly packumentCache full:https://registry.npmjs.org/playwright cache-miss
+34 http fetch GET 200 https://registry.npmjs.org/axe-core 212ms (cache miss)
+35 silly packumentCache full:https://registry.npmjs.org/axe-core set size:undefined disposed:false
+36 http fetch GET 200 https://registry.npmjs.org/playwright 369ms (cache miss)
+37 silly packumentCache full:https://registry.npmjs.org/playwright set size:undefined disposed:false
+38 silly placeDep ROOT axe-core@4.14.0 OK for: @axe-core/playwright@4.14.0 want: ~4.14.0
+39 silly placeDep ROOT playwright@1.65.0 OK for: @playwright/test@1.65.0 want: 1.65.0
+40 silly reify moves {}
+41 http cache axe-core@https://registry.npmjs.org/axe-core/-/axe-core-4.14.0.tgz 1ms (cache hit)
+42 http cache playwright-core@https://registry.npmjs.org/playwright-core/-/playwright-core-1.65.0.tgz 0ms (cache hit)
+43 http cache @playwright/test@https://registry.npmjs.org/@playwright/test/-/test-1.65.0.tgz 0ms (cache hit)
+44 http cache playwright@https://registry.npmjs.org/playwright/-/playwright-1.65.0.tgz 0ms (cache hit)
+45 http cache @axe-core/playwright@https://registry.npmjs.org/@axe-core/playwright/-/playwright-4.14.0.tgz 0ms (cache hit)
+46 silly tarball no local data for axe-core@https://registry.npmjs.org/axe-core/-/axe-core-4.14.0.tgz. Extracting by manifest.
+47 silly tarball no local data for playwright-core@https://registry.npmjs.org/playwright-core/-/playwright-core-1.65.0.tgz. Extracting by manifest.
+48 silly tarball no local data for @playwright/test@https://registry.npmjs.org/@playwright/test/-/test-1.65.0.tgz. Extracting by manifest.
+49 silly tarball no local data for playwright@https://registry.npmjs.org/playwright/-/playwright-1.65.0.tgz. Extracting by manifest.
+50 silly tarball no local data for @axe-core/playwright@https://registry.npmjs.org/@axe-core/playwright/-/playwright-4.14.0.tgz. Extracting by manifest.
+51 http fetch GET 200 https://registry.npmjs.org/axe-core/-/axe-core-4.14.0.tgz 278ms (cache miss)
+52 http fetch GET 200 https://registry.npmjs.org/@playwright/test/-/test-1.65.0.tgz 558ms (cache miss)
+53 http fetch GET 200 https://registry.npmjs.org/@axe-core/playwright/-/playwright-4.14.0.tgz 727ms (cache miss)
+54 http fetch GET 200 https://registry.npmjs.org/playwright/-/playwright-1.65.0.tgz 756ms (cache miss)
+55 http fetch GET 200 https://registry.npmjs.org/playwright-core/-/playwright-core-1.65.0.tgz 875ms (cache miss)
+56 silly ADD node_modules/playwright
+57 silly ADD node_modules/axe-core
+58 silly ADD node_modules/@playwright/test
+59 silly ADD node_modules/playwright-core
+60 silly ADD node_modules/@axe-core/playwright
+61 verbose cwd E:\OneDrive\Desktop\dubai\tools
+62 verbose os Windows_NT 10.0.26200
+63 verbose node v22.15.1
+64 verbose npm  v10.9.2
+65 notice
+65 notice New major version of npm available! 10.9.2 -> 12.2.2
+65 notice Changelog: https://github.com/npm/cli/releases/tag/v12.2.2
+65 notice To update run: npm install -g npm@12.2.2
+65 notice  { force: true, [Symbol(proc-log.meta)]: true }
+66 verbose exit 0
+67 info ok

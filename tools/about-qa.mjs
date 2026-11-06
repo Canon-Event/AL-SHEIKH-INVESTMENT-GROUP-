@@ -1,0 +1,9 @@
+import {chromium} from '@playwright/test';import AxeBuilder from '@axe-core/playwright';import fs from 'node:fs';import path from 'node:path';
+const out=path.resolve('../al-sheikh/.impeccable/review');
+const browser=await chromium.launch({executablePath:'C:/Program Files/Google/Chrome/Application/chrome.exe',headless:true});const context=await browser.newContext({viewport:{width:1440,height:1000},reducedMotion:'reduce'});const page=await context.newPage();
+await page.goto('http://localhost:4173/about/',{waitUntil:'networkidle'});await page.evaluate(async()=>{await document.fonts.ready;await Promise.all([...document.images].map(async i=>{i.loading='eager';try{await i.decode();}catch{}}));});
+const issues=[];for(const width of [320,390,768,1440]){await page.setViewportSize({width,height:1000});await page.evaluate(()=>document.fonts.ready);await page.waitForTimeout(80);const overflow=await page.evaluate(()=>document.documentElement.scrollWidth>innerWidth);if(overflow)issues.push(width);}
+await page.setViewportSize({width:1440,height:1000});await page.screenshot({path:path.join(out,'about-desktop.png'),fullPage:true});await page.locator('.leadership-section').screenshot({path:path.join(out,'leadership-desktop.png')});
+const a11y=await new AxeBuilder({page}).withTags(['wcag2a','wcag2aa','wcag21aa']).analyze();
+await page.setViewportSize({width:390,height:844});await page.evaluate(()=>window.scrollTo({top:0,behavior:'instant'}));await page.waitForTimeout(80);await page.screenshot({path:path.join(out,'about-mobile.png'),fullPage:true});
+const result={overflow:issues,a11y:a11y.violations.map(v=>({id:v.id,impact:v.impact})),leadership:await page.locator('.leadership-copy h3').textContent()};fs.writeFileSync(path.join(out,'about-qa.json'),JSON.stringify(result,null,2));console.log(result);await browser.close();if(issues.length||a11y.violations.length)process.exitCode=1;
